@@ -5,6 +5,6 @@
 
 int main(void)
 {
-  string s = "H1!";
-  printf("%i%i%i\n", s[0], s[1], s[2]), s[3];
+  string s = "HI!";
+  printf("%i %i %i %i\n", s[0], s[1], s[2], s[3]);
 }
